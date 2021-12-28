@@ -1,3 +1,3 @@
-# OOP pattern practice
+## OOP pattern practice
 
-## Builder patter: BuilderPattern
+- Builder patter: BuilderPattern
